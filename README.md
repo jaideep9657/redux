@@ -1,2 +1,2 @@
-Counter using Redux by Ajaykumar Bhagat
+Counter using Redux by Jaideep
 # redux
